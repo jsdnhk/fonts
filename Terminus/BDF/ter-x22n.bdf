@@ -1,5 +1,5 @@
 STARTFONT 2.1
-FONT -xos4-TerminessPowerline-Medium-R-Normal--22-220-72-72-C-110-ISO10646-1
+FONT -xos4-Terminess-Medium-R-Normal--22-220-72-72-C-110-ISO10646-1
 SIZE 22 72 72
 FONTBOUNDINGBOX 11 22 0 -5
 STARTPROPERTIES 23
@@ -8,7 +8,7 @@ AVERAGE_WIDTH 110
 CHARSET_ENCODING "1"
 CHARSET_REGISTRY "ISO10646"
 COPYRIGHT "Copyright (C) 2011 Dimitar Toshkov Zhekov. Copyright (c) 2013, Kim Silkebaekken, Nikolay Pavlov and Carl X. Su."
-FAMILY_NAME "Terminess Powerline"
+FAMILY_NAME "Terminess"
 FOUNDRY "xos4"
 MIN_SPACE 11
 NOTICE "Licensed under the SIL Open Font License, Version 1.1"

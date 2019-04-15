@@ -1,10 +1,10 @@
-Terminess Powerline PSF (PC Screen Font) Type 2 files with embedded
+Terminess PSF (PC Screen Font) Type 2 files with embedded
 unicode table.
 
 Used primary in Linux EGA/VGA console. As it is required for the font
 to contain exactly 256 or 512 characters and Terminus already used all
 of them this font files have the following glyphs substituted with the
-Powerline glyphs:
+ glyphs:
 
     Codepoint  Character  Name
      U+2320        ⌠      TOP HALF INTEGRAL
@@ -16,5 +16,5 @@ Powerline glyphs:
      U+221A        √      SQUARE ROOT
 
 Note: "substituted" means these codepoints and glyphs were removed,
-new glyphs and codepoints were added. Powerline symbols are accessible
+new glyphs and codepoints were added. symbols are accessible
 using the usual codepoints, not above ones.

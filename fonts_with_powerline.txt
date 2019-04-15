@@ -1,0 +1,102 @@
+Binary file ./AnonymousPro/Anonymice Bold Italic.ttf matches
+Binary file ./AnonymousPro/Anonymice Bold.ttf matches
+Binary file ./AnonymousPro/Anonymice Italic.ttf matches
+Binary file ./AnonymousPro/Anonymice.ttf matches
+Binary file ./Arimo/Arimo Bold Italic.ttf matches
+Binary file ./Arimo/Arimo Bold.ttf matches
+Binary file ./Arimo/Arimo Italic.ttf matches
+Binary file ./Arimo/Arimo.ttf matches
+Binary file ./Cousine/Cousine Bold Italic.ttf matches
+Binary file ./Cousine/Cousine Bold.ttf matches
+Binary file ./Cousine/Cousine Italic.ttf matches
+Binary file ./Cousine/Cousine.ttf matches
+Binary file ./DejaVuSansMono/DejaVu Sans Mono Bold Oblique.ttf matches
+Binary file ./DejaVuSansMono/DejaVu Sans Mono Bold.ttf matches
+Binary file ./DejaVuSansMono/DejaVu Sans Mono Oblique.ttf matches
+Binary file ./DejaVuSansMono/DejaVu Sans Mono.ttf matches
+Binary file ./DroidSansMonoDotted/Droid Sans Mono Dotted.ttf matches
+Binary file ./DroidSansMono/Droid Sans Mono.otf matches
+Binary file ./DroidSansMonoSlashed/Droid Sans Mono Slashed.ttf matches
+Binary file ./FiraMono/FuraMono-Bold.otf matches
+Binary file ./FiraMono/FuraMono-Medium.otf matches
+Binary file ./FiraMono/FuraMono-Regular.otf matches
+Binary file ./GoMono/Go Mono Bold Italic.ttf matches
+Binary file ./GoMono/Go Mono Bold.ttf matches
+Binary file ./GoMono/Go Mono Italic.ttf matches
+Binary file ./GoMono/Go Mono.ttf matches
+Binary file ./InconsolataDz/Inconsolata-dz.otf matches
+Binary file ./Inconsolata-g/Inconsolata-g.otf matches
+Binary file ./Inconsolata/Inconsolata Bold.ttf matches
+Binary file ./Inconsolata/Inconsolata.otf matches
+Binary file ./LiberationMono/Literation Mono Bold Italic.ttf matches
+Binary file ./LiberationMono/Literation Mono Bold.ttf matches
+Binary file ./LiberationMono/Literation Mono Italic.ttf matches
+Binary file ./LiberationMono/Literation Mono.ttf matches
+Binary file ./Meslo Dotted/Meslo LG L DZ Bold Italic.ttf matches
+Binary file ./Meslo Dotted/Meslo LG L DZ Bold.ttf matches
+Binary file ./Meslo Dotted/Meslo LG L DZ Italic.ttf matches
+Binary file ./Meslo Dotted/Meslo LG L DZ Regular.ttf matches
+Binary file ./Meslo Dotted/Meslo LG M DZ Bold Italic.ttf matches
+Binary file ./Meslo Dotted/Meslo LG M DZ Bold.ttf matches
+Binary file ./Meslo Dotted/Meslo LG M DZ Italic.ttf matches
+Binary file ./Meslo Dotted/Meslo LG M DZ Regular.ttf matches
+Binary file ./Meslo Dotted/Meslo LG S DZ Bold Italic.ttf matches
+Binary file ./Meslo Dotted/Meslo LG S DZ Bold.ttf matches
+Binary file ./Meslo Dotted/Meslo LG S DZ Italic.ttf matches
+Binary file ./Meslo Dotted/Meslo LG S DZ Regular.ttf matches
+Binary file ./Meslo Slashed/Meslo LG L Bold Italic.ttf matches
+Binary file ./Meslo Slashed/Meslo LG L Bold.ttf matches
+Binary file ./Meslo Slashed/Meslo LG L Italic.ttf matches
+Binary file ./Meslo Slashed/Meslo LG L Regular.ttf matches
+Binary file ./Meslo Slashed/Meslo LG M Bold Italic.ttf matches
+Binary file ./Meslo Slashed/Meslo LG M Bold.ttf matches
+Binary file ./Meslo Slashed/Meslo LG M Italic.ttf matches
+Binary file ./Meslo Slashed/Meslo LG M Regular.ttf matches
+Binary file ./Meslo Slashed/Meslo LG S Bold Italic.ttf matches
+Binary file ./Meslo Slashed/Meslo LG S Bold.ttf matches
+Binary file ./Meslo Slashed/Meslo LG S Italic.ttf matches
+Binary file ./Meslo Slashed/Meslo LG S Regular.ttf matches
+Binary file ./Monofur/Monofur Bold.ttf matches
+Binary file ./Monofur/Monofur Italic.ttf matches
+Binary file ./Monofur/Monofur.ttf matches
+Binary file ./NotoMono/Noto Mono.ttf matches
+Binary file ./NovaMono/NovaMono.ttf matches
+Binary file ./ProFont/ProFont Bold For.ttf matches
+Binary file ./ProFont/ProFont For.ttf matches
+Binary file ./RobotoMono/Roboto Mono Bold Italic.ttf matches
+Binary file ./RobotoMono/Roboto Mono Bold.ttf matches
+Binary file ./RobotoMono/Roboto Mono Italic.ttf matches
+Binary file ./RobotoMono/Roboto Mono Light Italic.ttf matches
+Binary file ./RobotoMono/Roboto Mono Light.ttf matches
+Binary file ./RobotoMono/Roboto Mono Medium Italic.ttf matches
+Binary file ./RobotoMono/Roboto Mono Medium.ttf matches
+Binary file ./RobotoMono/Roboto Mono Thin Italic.ttf matches
+Binary file ./RobotoMono/Roboto Mono Thin.ttf matches
+Binary file ./RobotoMono/Roboto Mono.ttf matches
+Binary file ./SourceCodePro/Source Code Pro BlackItalic.otf matches
+Binary file ./SourceCodePro/Source Code Pro Black.otf matches
+Binary file ./SourceCodePro/Source Code Pro BoldItalic.otf matches
+Binary file ./SourceCodePro/Source Code Pro Bold.otf matches
+Binary file ./SourceCodePro/Source Code Pro ExtraLightItalic.otf matches
+Binary file ./SourceCodePro/Source Code Pro ExtraLight.otf matches
+Binary file ./SourceCodePro/Source Code Pro Italic.otf matches
+Binary file ./SourceCodePro/Source Code Pro LightItalic.otf matches
+Binary file ./SourceCodePro/Source Code Pro Light.otf matches
+Binary file ./SourceCodePro/Source Code Pro MediumItalic.otf matches
+Binary file ./SourceCodePro/Source Code Pro Medium.otf matches
+Binary file ./SourceCodePro/Source Code Pro.otf matches
+Binary file ./SourceCodePro/Source Code Pro SemiboldItalic.otf matches
+Binary file ./SourceCodePro/Source Code Pro Semibold.otf matches
+Binary file ./SpaceMono/Space Mono Bold Italic.ttf matches
+Binary file ./SpaceMono/Space Mono Bold.ttf matches
+Binary file ./SpaceMono/Space Mono Italic.ttf matches
+Binary file ./SpaceMono/Space Mono.ttf matches
+Binary file ./SymbolNeu/Symbol Neu.ttf matches
+Binary file ./Tinos/Tinos Bold Italic.ttf matches
+Binary file ./Tinos/Tinos Bold.ttf matches
+Binary file ./Tinos/Tinos Italic.ttf matches
+Binary file ./Tinos/Tinos.ttf matches
+Binary file ./UbuntuMono/Ubuntu Mono derivative Bold Italic.ttf matches
+Binary file ./UbuntuMono/Ubuntu Mono derivative Bold.ttf matches
+Binary file ./UbuntuMono/Ubuntu Mono derivative Italic.ttf matches
+Binary file ./UbuntuMono/Ubuntu Mono derivative.ttf matches
