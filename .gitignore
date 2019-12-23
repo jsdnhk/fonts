@@ -1,2 +1,4 @@
 # Ignore fontconfig .uuid files
 .uuid
+# IDE generated files
+.vscode/
