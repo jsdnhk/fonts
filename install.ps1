@@ -23,10 +23,13 @@ param(
     $FontName = '*'
 )
 
+Get-ChildItem $PSScriptRoot -Filter "*.zip" | Foreach-Object {Expand-Archive -LiteralPath $_ -DestinationPath $PSScriptRoot}
+
 $fontFiles = New-Object 'System.Collections.Generic.List[System.IO.FileInfo]'
 foreach ($aFontName in $FontName) {
     Get-ChildItem $PSScriptRoot -Filter "${aFontName}.ttf" -Recurse | Foreach-Object {$fontFiles.Add($_)}
     Get-ChildItem $PSScriptRoot -Filter "${aFontName}.otf" -Recurse | Foreach-Object {$fontFiles.Add($_)}
+    Get-ChildItem $PSScriptRoot -Filter "${aFontName}.ttc" -Recurse | Foreach-Object {$fontFiles.Add($_)}
 }
 
 $fonts = $null

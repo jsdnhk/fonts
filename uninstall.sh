@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Set source and target directories
-powerline_fonts_dir="$( cd "$( dirname "$0" )" && pwd )"
+fonts_dir="$( cd "$( dirname "$0" )" && pwd )"
 
 # if an argument is given it is used to select which fonts to uninstall
 prefix="$1"
@@ -20,7 +20,7 @@ fi
 
 # Remove all fonts from user fonts directory
 echo "Removing fonts..."
-find "$powerline_fonts_dir" \( -name "$prefix*.[ot]tf" -or -name "$prefix*.pcf.gz" \) -type f -print0 | xargs -n1 -0 -I % sh -c "rm -f \"\$0/\${1##*/}\"" "$font_dir" %
+find "$fonts_dir" \( -name "$prefix*.[ot]t[cf]" -or -name "$prefix*.pcf.gz" \) -type f -print0 | xargs -n1 -0 -I % sh -c "rm -f \"\$0/\${1##*/}\"" "$font_dir" %
 
 # Reset font cache on Linux
 if which fc-cache >/dev/null 2>&1 ; then
@@ -28,4 +28,4 @@ if which fc-cache >/dev/null 2>&1 ; then
     fc-cache -f "$font_dir"
 fi
 
-echo "Powerline fonts uninstalled from $font_dir"
+echo "jsdnhk@github fonts uninstalled from $font_dir"
