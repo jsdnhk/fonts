@@ -1,4 +1,4 @@
-Customized Fonts
+Personal-style fonts collection (jsdnhk@Github)
 ===============
 
 This repository is forked version from the github repo `Powerline <https://github.com/powerline/powerline>`_ for the personal use.
