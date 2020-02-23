@@ -35,11 +35,3 @@ iTerm2 users need to set both the Regular font and the Non-ASCII Font in
 
 __ https://github.com/Lokaltog/powerline-fonts/issues/44
 
-Fontconfig
-----------
-
-In some distributions, Terminess is ignored by default and must be 
-explicitly allowed. A fontconfig file is provided which enables it. Copy `this
-file <https://github.com/powerline/fonts/blob/master/fontconfig/50-enable-terminess-powerline.conf>`_
-from the fontconfig directory to your home folder under ``~/.config/fontconfig/conf.d`` 
-(create it if it doesn't exist) and re-run ``fc-cache -vf``.

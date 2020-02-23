@@ -16,7 +16,7 @@ else
 fi
 
 # Extract large fonts file from .zip
-# source ./download_large_fonts.sh
+# source ./Chinese/download_abobe_chinese.sh
 
 # Copy all fonts to user fonts directory
 echo "Copying fonts..."
